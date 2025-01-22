@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ":information_desk_person: Profile"  # :information_desk_person:, :raising_hand:
+title: ":sparkles: Profile"  # :information_desk_person:, :raising_hand:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-- :pencil: I am a final-year master student in Computer Science & Technology at South-Central Minzu University, supervised by [Prof. Zhang Xiao](https://scholar.google.com/citations?user=yGg0OisAAAAJ&hl=en). I was an intern at A*STAR's Centre for Frontier AI Research (CFAR), Singapore, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/index.html) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en). My current research interests focus on video anomaly detection and data-centric efficiency.  # :page_with_curl:
+- :pencil: I am a final-year master student in Computer Science & Technology at South-Central Minzu University, supervised by [Prof. Zhang Xiao](https://scholar.google.com/citations?user=yGg0OisAAAAJ&hl=en). I was an intern at A*STAR's Centre for Frontier AI Research (CFAR), Singapore, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/index.html) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en). My current research interests focus on video anomaly detection and data-centric efficiency.
 
 - :mortar_board: I'm actively pursuing a PhD position in Computer Science & Engineering for Fall 2025. If you're interested, please feel free to contact me!
 
