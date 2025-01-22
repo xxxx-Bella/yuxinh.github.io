@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me-eagle.png"
   name             : "Yuxin Hong"
   pronouns         : # example: "she/her"  
   bio              : "Brainy is the new sexy."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Wuhan, China"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "bellaxin.becool@gmail.com" 
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/xxxx-Bella"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
