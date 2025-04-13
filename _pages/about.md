@@ -15,7 +15,7 @@ redirect_from:
 :bookmark_tabs: Publications
 ======
 
-1. [**Evolution-aware VArance (EVA) Coreset Selection for Medical Image Classification**](https://arxiv.org/pdf/2406.05677.pdf)([Best Paper Nomination:tada:](https://2024.acmmm.org/awards))
+1. [**Evolution-aware VArance (EVA) Coreset Selection for Medical Image Classification**](https://arxiv.org/pdf/2406.05677.pdf)([Best Paper Nomination](https://2024.acmmm.org/awards):tada:)
 
     **Yuxin Hong**, Xiao Zhang, Xin Zhang, Joey Tianyi Zhou. 2024. _Proceedings of the 32nd ACM International Conference on Multimedia_. (Code [here](https://github.com/xxxx-Bella/EVA))
    
