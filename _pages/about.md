@@ -22,4 +22,4 @@ redirect_from:
 
 1. [**iCREPCP: A deep learning-based web server for identifying base-resolution cis-regulatory elements within plant core promoters**](https://www.cell.com/plant-communications/fulltext/S2590-3462(22)00292-9#secsectitle0020)
 
-    Kaixuan Deng\*, Qizhe Zhang\*, **Yuxin Hong**, Jianbing Yan, Xuehai Hu. 2023. _Plant Communications_ (**SCI Q1** Journal, \* means co-first authors>).
+    Kaixuan Deng\*, Qizhe Zhang\*, **Yuxin Hong**, Jianbing Yan, Xuehai Hu. 2023. _Plant Communications_ (**SCI Q1** Journal, \* means co-first authors).
