@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-- :pencil: I am a final-year master student in Computer Science & Technology at South-Central Minzu University, supervised by [Prof. Zhang Xiao](https://scholar.google.com/citations?user=yGg0OisAAAAJ&hl=en). I was an intern at A*STAR's Centre for Frontier AI Research (CFAR), Singapore, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/index.html) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en). My current research interests focus on computer vision and data-centric efficiency.
+- :pencil: I am a first-year PhD student in Data Science at Lingnan University, supervised by [Prof. Sam KWONG](https://scholar.google.com.hk/citations?user=_PVI6EAAAAAJ&hl=en). I received my M.Eng. degree in Computer Science and Technology from South-Central Minzu University, supervised by [Prof. Xiao ZHANG](https://scholar.google.com/citations?user=yGg0OisAAAAJ&hl=en). I have also worked as a research intern at the Centre for Frontier AI Research (CFAR), A*STAR, Singapore, under the supervision of [Prof. Joey Tianyi ZHOU](https://joeyzhouty.github.io/index.html) and [Dr. Jiawei DU](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en). My current research interests focus on computer vision and data-centric efficiency.
 
-- :mortar_board: I'm actively pursuing a PhD position in Computer Science & Engineering for Fall 2025. If you're interested, please feel free to contact me!
+- :mortar_board: I am always interested in collaborating on research projects and publications. Please don’t hesitate to reach out.
 
 
 :bookmark_tabs: Publications
